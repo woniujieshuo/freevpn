@@ -11,6 +11,11 @@
 最低付费套餐：5元/1000G/月（不限终端，不限速，解锁流媒体）  
 ![Image text](https://github.com/woniujieshuo/freevpn/blob/main/img/EMO.png)  
 ****
+## :white_check_mark:[Mikasa Cloud](https://mikasa.cloud/index.php#/register?code=pVa1I1rA)
+免费：暂无
+最低付费套餐：5元/月起（原生IP解锁流媒体）  
+![Image text](https://github.com/woniujieshuo/freevpn/blob/main/img/Mikasa%20Cloud.png) 
+****
 
 <details>
 
