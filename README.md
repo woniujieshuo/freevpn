@@ -16,6 +16,11 @@
 最低付费套餐：5元/月起（原生IP解锁流媒体）  
 ![Image text](https://github.com/woniujieshuo/freevpn/blob/main/img/Mikasa%20Cloud.png) 
 ****
+## :white_check_mark:[蓝色海洋](https://allbluecloud.xyz/index.php#/register?code=BsaKIwY8)
+免费：暂无
+最低付费套餐：6.9元/月起（中转节点，高速低延迟，原生IP解锁流媒体）  
+![Image text](https://github.com/woniujieshuo/freevpn/blob/main/img/allbluecloud.png) 
+****
 
 <details>
 
