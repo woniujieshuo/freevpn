@@ -1,10 +1,10 @@
 # :airplane:免费公益机场分享    
                                             
-## :white_check_mark:[魔法学院](http://2220.it/register?aff=fPYH2YpZNu)
+## :white_check_mark:[备用机场](https://cloud.beiyong.top/#/register?code=bDQxm4fA)
 * ##### 专属八折优惠码shadycn（活动套餐除外）
 免费：暂无  
 最低付费套餐：1元体验套餐  
-![Image text](https://github.com/woniujieshuo/freevpn/blob/main/img/mgschool.png)  
+![Image text](https://github.com/woniujieshuo/freevpn/blob/main/img/beiyong.png)  
 ****
 ## :white_check_mark:[EMO](https://yyds.emovpn.top/#/register?code=uEU0lmZG) 
 免费：300G/月。
