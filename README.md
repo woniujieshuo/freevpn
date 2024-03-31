@@ -1,8 +1,8 @@
 # :airplane:免费公益机场分享    
                                             
 ## :white_check_mark:[备用机场](https://cloud.beiyong.top/#/register?code=bDQxm4fA)
-* ##### 专属八折优惠码shadycn（活动套餐除外）
-免费：暂无  
+* ##### 专属七折优惠码ynjq5AEL（活动套餐除外）
+免费：白嫖优惠码NGxsbAdJ  
 最低付费套餐：1元体验套餐  
 ![Image text](https://github.com/woniujieshuo/freevpn/blob/main/img/beiyong.png)  
 ****
